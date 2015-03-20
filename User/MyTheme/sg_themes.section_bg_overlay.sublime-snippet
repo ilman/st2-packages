@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="page-section bg-dark text-center bg-image" data-bg-image="http://localhost/themes/corporate/public/assets/images/hero-1.jpg" data-bg-size="cover">
+    <div class="section-overlay bg-image" data-bg-image="http://localhost/themes/corporate/public/assets/images/pattern-1.png" data-bg-size="initial"></div>
+    <div class="container">
+        [section content]
+    </div>
+</div>
+]]></content>
+</snippet>

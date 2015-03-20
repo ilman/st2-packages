@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="fa-stack fa-2x">
+    <i class="fa fa-trophy fa-stack-2x text-yellow"></i>
+    <i class="fa fa-star fa-stack-1x text-red"></i>
+</span>
+]]></content>
+</snippet>

@@ -1,0 +1,47 @@
+<snippet>
+	<content><![CDATA[
+<nav class="navbar navbar-blank">
+    <div class="container">
+        <div class="navbar-header">
+            <button class="navbar-toggle btn btn-primary" type="button" data-toggle="collapse" data-target="#main-nav-demo">
+                <i class="fa fa-fw fa-bars"></i>
+            </button>
+            <a class="navbar-brand" href="http://localhost/themes/corporate/public/router.php?page=home">
+                Logo
+            </a>
+        </div>
+        <!-- navbar-header -->
+        <div class="collapse navbar-collapse" id="main-nav-demo">
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="">Home</a>	
+                </li>
+                <li>
+                    <a href="">Portfolio</a>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="">Pages <i class="caret"></i></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="">About Us</a>
+                        </li>
+                        <li>
+                            <a href="">Profile</a>
+                        </li>
+                        <li>
+                            <a href="">Pricing</a>
+                        </li>
+                        <li>
+                            <a href="">Not Found</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <!-- navbar-collapse -->
+    </div>
+    <!-- container -->
+</nav>
+<!-- nav -->
+]]></content>
+</snippet>

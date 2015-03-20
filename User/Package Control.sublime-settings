@@ -1,0 +1,25 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Bootstrap 3 Snippets",
+		"EJS",
+		"FileSystem Autocompletion",
+		"Handlebars",
+		"HTML Boilerplate",
+		"Jade",
+		"LESS",
+		"Nodejs",
+		"Package Control",
+		"Prefixr",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeTextGitX",
+		"Tag",
+		"WordPress"
+	]
+}

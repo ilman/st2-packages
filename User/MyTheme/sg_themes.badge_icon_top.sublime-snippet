@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<div class="block align-center">
+    <div class="block-thumb">
+        <span class="badge badge-icon badge-circle bg-primary badge-lg ">
+            <i class="fa fa-camera-retro"></i>
+        </span>
+    </div>
+    <div class="block-body">
+        <h4>Some Title</h4>
+        <p>Praesent lobortis lacus eleifend est bibendum, id porttitor velit tempus.</p>
+    </div>
+</div>
+<!-- block -->
+]]></content>
+</snippet>

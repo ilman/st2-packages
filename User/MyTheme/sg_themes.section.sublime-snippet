@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="page-section bg-dark text-center">
+    <div class="container">
+        [section content]
+    </div>
+</div>
+]]></content>
+</snippet>

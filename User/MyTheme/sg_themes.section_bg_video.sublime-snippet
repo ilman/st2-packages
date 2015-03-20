@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<div class="page-section bg-dark text-center">
+    <div class="section-overlay bg-video">
+        <video autoplay="autoplay" loop="loop" muted="muted" poster="http://localhost/themes/corporate/public/assets/videos/video-1.jpg">
+            <source type="video/youtube" src="http://www.youtube.com/watch?v=lN5DFVSpPJA">
+                <div class="video-fallback">Your browser does not support the video tag. I suggest you upgrade your browser.</div>
+        </video>
+    </div>
+    <div class="container">
+        [section content]
+    </div>
+</div>
+]]></content>
+</snippet>

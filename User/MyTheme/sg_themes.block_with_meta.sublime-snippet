@@ -1,0 +1,28 @@
+<snippet>
+	<content><![CDATA[
+<div class="block block-post block-box box-full bg-white">
+    <div class="block-thumb">
+        <img src="http://lorempixel.com/400/300" alt="image" />
+    </div>
+    <div class="block-body">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, tempora, est quasi laboriosam.
+    </div>
+    <div class="block-meta bottom">
+        <div class="pull-left">
+            <span class="meta-read-more">
+                <a href="">Read More <i class="fa fa-arrow-right"></i></a>
+            </span>
+        </div>
+        <div class="pull-right">
+            <a href="">
+                <i class="fa fa-heart"></i>23</a>
+            <a href="">
+                <i class="fa fa-eye"></i>125</a>
+            <a href="">
+                <i class="fa fa-comment"></i>7</a>
+        </div>
+    </div>
+</div>
+<!-- block -->
+]]></content>
+</snippet>

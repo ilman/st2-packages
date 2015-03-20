@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<div class="block block-post block-box box-full bg-white text-center">
+    <div class="block-thumb">
+        <img src="http://lorempixel.com/400/300" alt="image" />
+    </div>
+    <div class="block-thumb overflow">
+        	<img class="img-circle" src="http://lorempixel.com/400/300/people" alt="image" />
+    </div>
+    <div class="block-body">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, tempora, est quasi laboriosam.
+    </div>
+</div>
+<!-- block -->
+]]></content>
+</snippet>

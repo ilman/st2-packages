@@ -1,0 +1,13 @@
+{
+	"font_size": 12.0,
+	"ignored_packages":
+	[
+		"Vintage",
+		"WordPress",
+		"Bootstrap 3 Snippets",
+		"SublimeGit",
+		"FileSystem Autocompletion"
+	],
+	"tab_size": 3,
+	"word_wrap": true
+}

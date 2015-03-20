@@ -1,0 +1,22 @@
+[
+	{ "keys": ["ctrl+shift+/"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["ctrl+alt+/"], "command": "toggle_comment", "args": { "block": true } },
+	{ "keys": ["ctrl+shift+l"], "command": "split_selection_into_lines" },
+	{ "keys": ["ctrl+1"], "command": "insert_snippet", "args": { "contents": "<h1>${0:${TM_SELECTED_TEXT}}</h1>"} },
+	{ "keys": ["ctrl+2"], "command": "insert_snippet", "args": { "contents": "<h2>${0:${TM_SELECTED_TEXT}}</h2>"} },
+	{ "keys": ["ctrl+3"], "command": "insert_snippet", "args": { "contents": "<h3>${0:${TM_SELECTED_TEXT}}</h3>"} },
+	{ "keys": ["ctrl+4"], "command": "insert_snippet", "args": { "contents": "<h4>${0:${TM_SELECTED_TEXT}}</h4>"} },
+	{ "keys": ["ctrl+5"], "command": "insert_snippet", "args": { "contents": "<h5>${0:${TM_SELECTED_TEXT}}</h5>"} },
+	{ "keys": ["ctrl+6"], "command": "insert_snippet", "args": { "contents": "<h6>${0:${TM_SELECTED_TEXT}}</h6>"} },
+	{ "keys": ["ctrl+9"], "command": "insert_snippet", "args": { "contents": "<p>${0:${TM_SELECTED_TEXT}}</p>"} },
+	{ "keys": ["ctrl+0"], "command": "insert_snippet", "args": { "contents": "<div>${0:${TM_SELECTED_TEXT}}</div>"} },
+	{ "keys": ["ctrl+/"], "command": "insert_snippet", "args": { "contents": "<?php ${0:${TM_SELECTED_TEXT}} ?>"} },
+	{ "keys": ["ctrl+u"], "command": "insert_snippet", "args": { "contents": "<ul>${0:${TM_SELECTED_TEXT}}</ul>"} },
+	{ "keys": ["ctrl+l"], "command": "insert_snippet", "args": { "contents": "<li>${0:${TM_SELECTED_TEXT}}</li>"} },
+	{ "keys": ["ctrl+."], "command": "insert_snippet", "args": { "contents": "<a>${0:${TM_SELECTED_TEXT}}</a>"} },
+	{ "keys": ["ctrl+shift+."], "command": "insert_snippet", "args": { "contents": "<span>${0:${TM_SELECTED_TEXT}}</span>"} },
+	{ "keys": ["ctrl+shift+b"], "command": "insert_snippet", "args": { "contents": "<div class=\"block\">\n\r\t<div class=\"block-thumb\"></div>\n\r\t<div class=\"block-body\"></div>\n\r</div>"} },
+	{ "keys": ["ctrl+shift+r"], "command": "insert_snippet", "args": { "contents": "<div class=\"row\">\n\r\t<div class=\"col-sm-12\">\n\r\t</div>\n\r</div>"} },
+	{ "keys": ["ctrl+shift+t"], "command": "insert_snippet", "args": { "contents": "<table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" bgcolor=\"\">\n\r\t<tr>\n\r\t\t<td></td>\n\r\t</tr>\n\r</table>"} },
+	{ "keys": ["ctrl+r"], "command": "insert_snippet", "args": { "name": "Packages/User/pre-print_r.sublime-snippet" } }
+]

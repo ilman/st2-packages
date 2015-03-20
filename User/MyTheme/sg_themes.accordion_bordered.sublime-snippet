@@ -1,0 +1,35 @@
+<snippet>
+	<content><![CDATA[
+<div class="panel-group panel-accordion" id="your_accordion_id_2">
+    <div class="panel panel-border">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a href="#your_accordion_id_2-content-1" data-parent="#your_accordion_id_2" data-toggle="collapse" class="collapsed">
+                    <i class="fa panel-toggle fa-plus"></i>Content 1</a>
+            </h4>
+        </div>
+        <div class="panel-collapse collapse" id="your_accordion_id_2-content-1">
+            <div class="panel-body">
+                <i class="fa panel-toggle fa-minus"></i>lorem ipsum
+            </div>
+        </div>
+    </div>
+    <!-- panel -->
+    <div class="panel panel-border">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a href="#your_accordion_id_2-content-2" data-parent="#your_accordion_id_2" data-toggle="collapse" class="collapsed">
+                    <i class="fa panel-toggle fa-plus"></i>Content 2</a>
+            </h4>
+        </div>
+        <div class="panel-collapse collapse" id="your_accordion_id_2-content-2">
+            <div class="panel-body">
+                <i class="fa panel-toggle fa-minus"></i>lorem ipsum
+            </div>
+        </div>
+    </div>
+    <!-- panel -->
+</div>
+<!-- panel group -->
+]]></content>
+</snippet>

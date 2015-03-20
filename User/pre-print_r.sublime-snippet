@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+echo '<pre style="padding:10px; border:#ddd solid 1px; background:#eee; color:#999;">';
+print_r(${1});
+echo '</pre>';
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pre_r</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

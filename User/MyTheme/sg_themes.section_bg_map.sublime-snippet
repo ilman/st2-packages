@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<div class="page-section no-padding bg-dark text-center">
+    <div class="gmap" id="gmap-1" data-address="manhattan, new-york" data-zoom="15" data-height="200"></div>
+</div>
+]]></content>
+</snippet>

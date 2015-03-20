@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+<div id="border-tabs" class="sg-tabs sg-tabs-border-body sg-tabs-block">
+    <ul class="nav nav-tabs">
+        <li class="active"><a href="#border-tab1" data-toggle="tab">Tab 1</a>
+        </li>
+        <li><a href="#border-tab2" data-toggle="tab">Tab 2</a>
+        </li>
+        <li><a href="#border-tab3" data-toggle="tab">Tab 3</a>
+        </li>
+    </ul>
+ 
+    <!-- Tab panes -->
+    <div class="tab-content bg-white">
+        <div class="tab-pane active" id="border-tab1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, rerum, nesciunt quos quas dolor est dicta itaque reprehenderit quasi blanditiis!</div>
+        <div class="tab-pane" id="border-tab2">Tempora, veritatis, odit, voluptas quos nostrum debitis doloribus voluptatem aliquid suscipit fugiat incidunt deleniti alias enim corporis.</div>
+        <div class="tab-pane" id="border-tab3">Enim, unde, neque modi ad vitae non a nulla aliquam autem et nesciunt repellendus nisi obcaecati natus deserunt iure sapiente.</div>
+    </div>
+</div>
+<!-- tabs -->
+]]></content>
+</snippet>
